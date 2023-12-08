@@ -1,5 +1,4 @@
 class Grid():
-
     def __init__(self, canvas):
         self.canvas = canvas
         self.canvas.update()
